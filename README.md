@@ -11,6 +11,6 @@ Feature Video:
 
 Screenshots:
 
-<img src='analog_dark.png'>
+<img src='analog_dark.png' width = 350>
 
-<img src='analog_light.png'>
+<img src='analog_light.png' width = 350>
