@@ -1,5 +1,6 @@
 # Analog Clock
 
+## Documentation
 This is a Modern (Analog & Digital) Clock made with Flutter for Flutter Clock contest.
 
 It both shows the Analog and Digital Clock view in single app.
